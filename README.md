@@ -1,5 +1,5 @@
 # ImageMagick Quality Tests
-This is a quick and dirty test to get a feel for file size vs. image quality for JPEG files (as output by ImageMagick 6..6.7-9).
+This is a quick and dirty test to get a feel for file size vs. image quality for JPEG files (as output by ImageMagick 6.6.7-9).
 
 The goal was to figure out how Google Plus has such nice images with decent file sizes.  Findings:
 
